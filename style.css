@@ -1,0 +1,15 @@
+body {
+    text-align: justify;
+    background-color: beige;
+
+}
+h1 {
+    background-color: rgb(0,250,154);
+}
+h2 {
+    font-size: 30px;
+}
+p { font-size: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #32CD32;
+}
