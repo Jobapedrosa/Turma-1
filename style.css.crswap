@@ -5,7 +5,7 @@ body {
     
 h1 {
     background-color: rgb(187, 187, 120);
-    border: 2px solid black;
+    bo
 }
 
 
@@ -17,7 +17,7 @@ p { font-size: 25px;
 
 }
 img {
-    width: 250px;
+    width: 300px;
 }
 .paragrafo-1 {
     font-size: 30px;
@@ -29,14 +29,4 @@ img {
 .margem-superior {
     padding-top: 100px;
     padding-bottom: 100px;
-}
-.paragrafos {
-    background-color: rgb(219, 219, 113);
-    border: 2px solid black;
-}
-.lista {
-    text-align: left;
-    font-size: 25px;
-    background-color: rgb(231, 170, 79);
-    display: inline-block;
 }
